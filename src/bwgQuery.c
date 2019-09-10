@@ -17,7 +17,7 @@
 #include "bbiFile.h"
 #include "bwgInternal.h"
 #include "bigWig.h"
-#include "bigBed.h"
+//#include "bigBed.h"
 
 
 struct bbiFile *bigWigFileOpen(char *fileName)
